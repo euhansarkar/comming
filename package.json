@@ -2,6 +2,10 @@
   "name": "comming",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v20.15.0",
+    "npm": "10.7.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
